@@ -5,5 +5,6 @@ class Program2{
         String login = "mail";
         String pass = "pass";
         System.out.println(login + pass);
+        System.out.println("Extra feature within google login change");
     }
 }
