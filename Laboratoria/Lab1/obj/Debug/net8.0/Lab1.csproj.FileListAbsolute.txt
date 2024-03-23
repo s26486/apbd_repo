@@ -1,0 +1,15 @@
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/bin/Debug/net8.0/Lab1
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/bin/Debug/net8.0/Lab1.deps.json
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/bin/Debug/net8.0/Lab1.runtimeconfig.json
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/bin/Debug/net8.0/Lab1.dll
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/bin/Debug/net8.0/Lab1.pdb
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfoInputs.cache
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfo.cs
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.sourcelink.json
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.dll
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/refint/Lab1.dll
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.pdb
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/Lab1.genruntimeconfig.cache
+/Users/aorgan/PJATK/Sem6/APBD/Cwiczenia/apbd_dir/apbd_repo/Laboratoria/Lab1/obj/Debug/net8.0/ref/Lab1.dll
