@@ -21,6 +21,6 @@
          Console.WriteLine(average);
          int maxVal = Program.max(array);
          Console.WriteLine(maxVal);
-
+         Console.WriteLine("Feature max added");
      }     
  }
